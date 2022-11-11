@@ -1,7 +1,4 @@
 This is ABC file
 This is 2nd time
-<<<<<<< HEAD
-This is 3rd 
-=======
 This is 3rd time 
->>>>>>> 9f28097cd776715a1ecfe80417aef392ae2afc1f
+this is 4th line
