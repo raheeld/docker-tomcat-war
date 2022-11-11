@@ -1,0 +1,2 @@
+This is 123.txt file to ignore 
+Add this file name in .gitignore
